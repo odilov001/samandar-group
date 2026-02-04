@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+.ca h1{
+font-weight: 700;
+font-size: 48px;
+line-height: 48px;
+letter-spacing: -2.14px;
+color: #495567;
+}
+.ca p{
+font-weight: 400;
+font-size: 15px;
+line-height: 25px;
+letter-spacing: 0px;
+color: #939CAA;
+}
+.ca button{
+    font-weight: 700;
+font-size: 15px;
+line-height: 25px;
+letter-spacing: 0px;
+text-align: center;
+color: #FFFFFF;
+background-color: #FCB72B;
+padding: 14px 36px;
+border: none;
+}
+.card1{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 34px 169px;
+}
