@@ -1,0 +1,76 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  width: 100%;
+  font-family: Space Mono;
+}
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 22px 4rem;
+}
+.links {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+  color: #939caa;
+}
+.BITIN {
+  width: 180px;
+  height: 53px;
+  font-family: Space Mono;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 25px;
+  letter-spacing: 0px;
+  color: white;
+  text-align: center;
+  background-color: #fcb72b;
+  border: none;
+}
+.img {
+  width: 1520px;
+  position: relative;
+  z-index: -1;
+}
+.Scooter {
+  font-family: Space Mono;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 56px;
+  letter-spacing: -2.5px;
+  margin-top: -580px;
+  margin-left: 70px;
+  color: white;
+}
+.our {
+  font-family: Lexend Deca;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 25px;
+  margin-left: 70px;
+  color: #ffffff;
+  letter-spacing: 0px;
+}
+.BITI {
+  width: 180px;
+  height: 53px;
+  font-family: Space Mono;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 25px;
+  letter-spacing: 0px;
+  text-align: center;
+  background-color: #fcb72b;
+  border: none;
+  margin-left: 70px;
+  color: white;
+}
