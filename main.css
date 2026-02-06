@@ -1,0 +1,121 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  width: 100%;
+  font-family: sans-serif;
+}
+.btn-a {
+  width: 363px;
+  height: 80px;
+  border-radius: 16px;
+  padding-top: 23px;
+  padding-right: 57px;
+  padding-bottom: 23px;
+  padding-left: 57px;
+  font-family: Open Sans;
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 25px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: center;
+  color: white;
+  border: none;
+  background-color: #274c5b;
+}
+
+.btn-b {
+  border: none;
+  font-family: Open Sans;
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 25px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: center;
+  width: 309px;
+  height: 80px;
+  border-radius: 16px;
+  padding-top: 23px;
+  padding-right: 61px;
+  padding-bottom: 23px;
+  background: #eff6f1;
+  padding-left: 61px;
+}
+.div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+.p {
+  font-family: Open Sans;
+  font-weight: 400;
+  font-style: Regular;
+  font-size: 18px;
+  line-height: 165%;
+  letter-spacing: 0%;
+  text-align: center;
+}
+.Related {
+  font-family: Roboto;
+  font-weight: 800;
+  font-style: ExtraBold;
+  font-size: 50px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: center;
+}
+.vegetebles {
+  width: 96px;
+  height: 31px;
+  gap: 10px;
+  border-radius: 8px;
+  padding-top: 5px;
+  padding-right: 12px;
+  padding-bottom: 6px;
+  padding-left: 12px;
+  background-color: #274c5b;
+  border: none;
+  margin-left: 14px;
+  color: white;
+}
+.card {
+  width: 335px;
+  height: 513px;
+  border-radius: 30px;
+  border: 3px #274c5b solid;
+}
+.mika {
+  font-family: Roboto;
+  font-weight: 600;
+  font-style: SemiBold;
+  font-size: 20px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  margin-left: 14px;
+}
+.del {
+  color: #b8b8b8;
+}
+.psa {
+  color: #274c5b;
+}
+.Star {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.cards {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+}
+.img {
+  width: 328px;
+  height: 328px;
+}
